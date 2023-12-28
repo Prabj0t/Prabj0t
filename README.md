@@ -4,7 +4,7 @@
 <p>🔭 I'm currently working on Machine Learning</p>
 <p>👯 I want to collaborate on AI/ML</p>
 <p>📫 How to reach me? prabpb31@gmail.com</p>
-<p>I regularly write articles on <a href="https://prabhjot-portfolio.netlify.app">Portfolio</a></p>
+<p>Here is My <a href="https://prabhjot-portfolio.netlify.app">Portfolio</a></p>
 <p>Know about my experiences <a href="https://drive.google.com/file/d/1YTpjIZmitk39XSmDTxx-bP84jLGc3Gca/view?usp=sharing">here</a></p>
 
 ## 💻 Skills
