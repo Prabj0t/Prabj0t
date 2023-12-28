@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Prabhjot Singh
+# Hi there 👋, I am Prabhjot Singh
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Machine Learning</p>
